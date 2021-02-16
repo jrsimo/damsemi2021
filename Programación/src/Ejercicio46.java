@@ -1,3 +1,14 @@
+/*
+ * Ejercicios Unidad 3: Arrays y cadenas
+ *
+ * Solución profesor
+ *
+ * Fecha: 11/02/21
+ *
+ * Lugar: CIPFP Cheste
+ *
+ */
+
 public class Ejercicio46
 {
     public static void main(String[] args)
@@ -16,7 +27,7 @@ public class Ejercicio46
         {
             for (int j = 0; j < 3; j++)
                 System.out.print(matriz[i][j] + " ");
-            System.out.println("");
+            System.out.println();
         }
     }
 }

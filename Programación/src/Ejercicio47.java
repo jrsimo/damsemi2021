@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/*
+ * Ejercicios Unidad 3: Arrays y cadenas
+ *
+ * Solución profesor
+ *
+ * Fecha: 16/02/21
+ *
+ * Lugar: CIPFP Cheste
+ *
+ */
 
 public class Ejercicio47
 {

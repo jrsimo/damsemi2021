@@ -1,3 +1,14 @@
+/*
+ * Ejercicios Unidad 3: Arrays y cadenas
+ *
+ * Solución profesor
+ *
+ * Fecha: 11/02/21
+ *
+ * Lugar: CIPFP Cheste
+ *
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
